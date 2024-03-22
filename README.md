@@ -1,2 +1,1 @@
-# Assignment-1
-Assignment 1 for Smart Internz
+# This assignment Submission encompasses the Smart Internz, a comprehensive intiative aimed at integrating smart technologies into everyday life.This is the Assignment-1 Which was Given By Smart Bridge (Smart InternzExternships)
